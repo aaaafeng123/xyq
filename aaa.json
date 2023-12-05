@@ -1,5 +1,5 @@
 {
-    "spider": "https://codeberg.org/aaaafeng/pg/raw/branch/main/pg.jar",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/pg.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -135,8 +135,8 @@
             "name": "💝pg┃电视┃直播",
             "type": 3,
             "searchable": 0,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/live2vod.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/feimaolive.json"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/live2vod.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/feimaolive.json"
         },
         {
             "key": "豆瓣pg",
@@ -145,18 +145,7 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/douban.json"
-        },
-        {
-            "key": "drpy_js_磁力熊",
-            "name": "💝磁力熊[js]|索引",
-            "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/cilixiongp.js",
-            "playerType": "1",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 1
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/douban.json"
         },
         {
             "key": "bili",
@@ -179,7 +168,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$0"
         },
         {
             "key": "Hdhive",
@@ -189,7 +178,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json$$$null$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$null$$$1"
         },
         {
             "key": "Ppxzy",
@@ -199,7 +188,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"
         },
         {
             "key": "校长影视",
@@ -210,7 +199,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json$$$null$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$null$$$1"
         },
         {
             "key": "团长资源",
@@ -221,7 +210,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json$$$null$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$null$$$1"
         },
         {
             "key": "Wobg",
@@ -231,7 +220,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"
         },
         {
             "key": "新6V",
@@ -241,7 +230,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
             "key": "NanGua",
@@ -265,14 +254,14 @@
             "name": "💝阿里|易搜",
             "type": 3,
             "api": "csp_YiSo",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
         },
         {
             "key": "盘搜pg",
             "name": "💝阿里|盘搜",
             "type": 3,
             "api": "csp_PanSou",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
         },
         {
             "key": "賤賤pg",
@@ -281,7 +270,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/jianpian.json$$$1",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/jianpian.json$$$1",
             "timeout": 60
         },
         {
@@ -345,8 +334,8 @@
             "key": "drpy_js_美剧迷",
             "name": "💝美剧迷[js]|磁",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/meijumi.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/meijumi.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -355,8 +344,8 @@
             "key": "drpy_js_libvio",
             "name": "💝LIBVIO[js]|夸",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/libvio.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/libvio.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -365,8 +354,8 @@
             "key": "drpy_js_KKPANS",
             "name": "💝KK盘[js]|夸",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/kkpans.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/kkpans.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -375,8 +364,8 @@
             "key": "drpy_js_meow",
             "name": "💝MEOW[js]|搜",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/meow.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/meow.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -385,8 +374,8 @@
             "key": "drpy_js_趣盤搜",
             "name": "💝趣盘搜[js]|夸",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/funletu.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/funletu.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -395,8 +384,8 @@
             "key": "drpy_js_愛盤搜",
             "name": "💝爱盘搜[js]|夸",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/aipanso.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/aipanso.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -405,8 +394,8 @@
             "key": "drpy_js_奇妙搜",
             "name": "💝奇妙搜[js]|夸",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/qimiao.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/qimiao.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -415,8 +404,8 @@
             "key": "drpy_js_dydhhy",
             "name": "💝dydhhy[js]|夸",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/dydhhy.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/dydhhy.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -425,8 +414,8 @@
             "key": "drpy_js_人人影视",
             "name": "💝人人影视[js]|搜",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/yyets.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/yyets.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -435,16 +424,16 @@
             "key": "drpy_js_低端影视",
             "name": "💝低端影视[js]|夸",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/ddys.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/ddys.js",
             "changeable": 1
         },
         {
             "key": "drpy_js_新版6V",
             "name": "💝新版6V[js]|磁",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/xb6v.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/xb6v.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -453,8 +442,8 @@
             "key": "drpy_js_97tvs",
             "name": "💝高清MP4吧[js]|磁",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/97tvs.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/97tvs.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -463,8 +452,8 @@
             "key": "drpy_js_rrdyw",
             "name": "💝人人電影網[js]|磁",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/rrdyw.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/rrdyw.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -473,8 +462,8 @@
             "key": "drpy_js_hotcat",
             "name": "💝热剧猫[js]",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/hotcat.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/hotcat.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -497,8 +486,8 @@
             "key": "drpy_js_MP4US",
             "name": "💝MP4电影[js]|磁",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/mp4us.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/mp4us.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -507,8 +496,8 @@
             "key": "drpy_js_电影港",
             "name": "💝电影港[js]|磁",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/dygang.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/dygang.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -517,8 +506,8 @@
             "key": "drpy_js_极影网",
             "name": "💝极影网[js]|磁",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/jiyingwp.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/jiyingwp.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -532,21 +521,21 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json$$$./lib/4khdr.txt$$$1"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/4khdr.txt$$$1"
         },
         {
             "key": "Sean",
             "name": "💝阿里|Sean",
             "type": 3,
             "api": "csp_Sean",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/tokenm.json"
         },
         {
             "key": "UP云搜",
             "name": "💝阿里|UP云搜",
             "type": 3,
             "api": "csp_UpYun",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
         },
         {
             "key": "Dovx",
@@ -556,7 +545,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
         },
         {
             "key": "Gitcafe",
@@ -566,7 +555,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
         },
         {
             "key": "找資源",
@@ -576,14 +565,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/tokenm.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
         },
         {
             "key": "drpy_js_酷吧",
             "name": "💝酷吧[js]|磁",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/kuba.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/kuba.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
@@ -620,7 +609,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/alistjar.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/alistjar.json"
         },
         {
             "key": "888解忧愁",
@@ -670,11 +659,11 @@
             "key": "drpy_js_Alist",
             "name": "💝网盘 | Alist[js]",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/alist.min.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alist.min.js",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/alist.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/alist.json"
         },
         {
             "key": "MV_vod",
@@ -689,8 +678,8 @@
             "key": "drpy_js_虎牙直播",
             "name": "💝直播|虎牙[js]",
             "type": 3,
-            "api": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib//drpy2.min.js",
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/js/huya.js"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib//drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/huya.js"
         },
         {
             "key": "push_quark",
@@ -698,7 +687,7 @@
             "type": 3,
             "api": "csp_Quark",
             "changeable": 0,
-            "ext": "https://codeberg.org/aaaafeng/pg/raw/branch/main/lib/quark.txt"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/quark.txt"
         },
         {
             "key": "csp_Mp4Mov",
@@ -1880,7 +1869,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "api": "https://cdn.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-            "ext": "https://cdn.jsdelivr.net/gh/hjdhnx/dr_py@main/js/爱迪[V2].js"
+            "ext": "https://cdn.jsdelivr.net/gh/hjdhnx/dr_py@main/js/爱迪[V2].jsd"
         },
         {
             "key": "落攻阁影视.js",
@@ -1931,7 +1920,7 @@
             "name": "🍓达达龟.js",
             "type": 3,
             "api": "https://cdn.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-            "ext": "https://cdn.jsdelivr.net/gh/hjdhnx/dr_py@main/js/达达龟.js"
+            "ext": "https://cdn.jsdelivr.net/gh/hjdhnx/dr_py@main/js/达达龟.jsd"
         },
         {
             "key": "drpy_js_南瓜影视.js",
@@ -1967,6 +1956,27 @@
             "type": 3,
             "api": "https://cdn.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
             "ext": "https://cdn.jsdelivr.net/gh/hjdhnx/dr_py@main/js/胖虎.js"
+        },
+        {
+            "key": "drpy_js_徕米TV.js",
+            "name": "影视 | 徕米TV.js",
+            "type": 3,
+            "api": "https://gh.2i.gs/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh.2i.gs/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/徕米TV.js"
+        },
+        {
+            "key": "drpy_js_TVB云播.jsd",
+            "name": "影视 | TVB云播.jsd",
+            "type": 3,
+            "api": "https://gh.2i.gs/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh.2i.gs/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/TVB云播.jsd"
+        },
+        {
+            "key": "drpy_js_乐猪TV.jsd",
+            "name": "影视 | 乐猪TV.jsd",
+            "type": 3,
+            "api": "https://gh.2i.gs/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh.2i.gs/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/乐猪TV.jsd"
         },
         {
             "key": "drpy_js_ 兔小贝",
