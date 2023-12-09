@@ -49,6 +49,7 @@
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
@@ -62,9 +63,17 @@
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 1,
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+        },
+        {
+            "key": "drpy_js_荐片",
+            "name": "影视 | 荐片[js]",
+            "type": 3,
+            "api": "https://codeberg.org/aaaafeng/js/raw/branch/main/lib/drpy2.min.js",
+            "ext": "https://codeberg.org/aaaafeng/js/raw/branch/main/js/荐片.js"
         },
         {
             "key": "77",
@@ -628,7 +637,7 @@
             "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
+            "changeable": 1,
             "filterable": 1
         },
         {
@@ -637,7 +646,7 @@
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "巴士",
@@ -645,7 +654,7 @@
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "異界",
@@ -653,7 +662,7 @@
             "type": 3,
             "api": "csp_Ysj",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "drpy_js_Alist",
@@ -1239,17 +1248,6 @@
             "ext": "./XYQHiker/兄弟影视.json"
         },
         {
-            "key": "csp_XYQHiker_干饭影视",
-            "name": "🌸干饭影视(HM2)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./custom_spider.jar",
-            "ext": "./XYQHiker/干饭影视.json"
-        },
-        {
             "key": "csp_XYQHiker_看一看影视",
             "name": "🌸看一看影视(XYQH)",
             "type": 3,
@@ -1360,17 +1358,6 @@
             "ext": "./XYQHiker/爱看影院.json"
         },
         {
-            "key": "csp_XYQHiker_子子影视",
-            "name": "🌸子子影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./custom_spider.jar",
-            "ext": "./XYQHiker/子子影视.json"
-        },
-        {
             "key": "csp_XYQHiker_素白白影视",
             "name": "🌸🥬素白白影视(XYQH)",
             "type": 3,
@@ -1416,17 +1403,6 @@
             "filterable": 1,
             "jar": "./custom_spider.jar",
             "ext": "./XYQHiker/Vidhub视频库.json"
-        },
-        {
-            "key": "csp_XYQHiker_l0l影院",
-            "name": "🌸l0l影院(HM2)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./custom_spider.jar",
-            "ext": "./XYQHiker/l0l影院.json"
         },
         {
             "key": "csp_XYQHiker_锐行加速影院",
@@ -1772,6 +1748,13 @@
             ]
         },
         {
+            "key": "ikanbot3.js",
+            "name": "🍓爱看机器人3[道长js]",
+            "type": 3,
+            "api": "https://gh.2i.gs/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh.2i.gs/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"
+        },
+        {
             "key": "drpy_js_北极狐",
             "name": "🍓北极狐[V2].js",
             "type": 3,
@@ -2029,6 +2012,23 @@
             "api": "http://cj.baozi66.top:66/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
+        },
+        {
+            "key": "业余采集B",
+            "name": "♻ 业余私自营 ",
+            "type": 1,
+            "api": "http://yydf.kele.plus/api.php/provide/vod/?ac=list",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "电影",
+                "电视剧",
+                "动漫",
+                "综艺",
+                "体育赛事"
+            ]
         },
         {
             "key": "极光资源",
@@ -2685,11 +2685,7 @@
             "name": "imdb(采)",
             "type": 0,
             "api": "https://api.imdb123.com/api.php/provide/vod/from/imdb/at/xml/",
-            "playUrl": "https://www.cloudplayer.live/?url=",
-            "header": {
-                "user-agent": "okhttp/3.15",
-                "Accept": "*/*"
-            },
+            "playUrl": "json:https://api.imdb123.com/x/xapi/get_vod_url.php?token=306243089&vid=imdb_XNMTAwNTQ3MDBfMQ==",
             "categories": [
                 "国产动漫",
                 "中国动漫",
@@ -4704,6 +4700,11 @@
         }
     ],
     "parses": [
+        {
+            "name": "巧巧",
+            "type": 1,
+            "url": "https://www.qiaoji8.com/tvbox/neibu.php?url="
+        },
         {
             "name": "乐酷蓝光",
             "type": 1,
