@@ -13,15 +13,6 @@
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
         },
         {
-            "key": "push_agent",
-            "name": "❤️推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 1,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-            "changeable": 0
-        },
-        {
             "key": "豆瓣",
             "name": "❤️豆瓣[蜂蜜版]",
             "type": 3,
@@ -689,6 +680,14 @@
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib//drpy2.min.js",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/huya.js"
+        },
+        {
+            "key": "push_agent",
+            "name": "💝推送",
+            "type": 3,
+            "api": "csp_Push",
+            "changeable": 0,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
         },
         {
             "key": "push_quark",
