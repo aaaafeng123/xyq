@@ -148,6 +148,14 @@
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/douban.json"
         },
         {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
             "key": "bili",
             "name": "💝B站 | Bili[jar]",
             "type": 3,
@@ -248,6 +256,22 @@
             "api": "csp_Hudie",
             "playerType": 2,
             "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
+        },
+        {
+            "key": "河马",
+            "name": "河马┃App",
+            "type": 3,
+            "api": "csp_Hmys",
+            "playerType": 1,
+            "ext": "https://m.jmzp.net.cn$$$null$$$1"
+        },
+        {
+            "key": "天天",
+            "name": "天天┃App",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 1,
+            "ext": "http://op.ysdqjs.cn$$$null$$$1"
         },
         {
             "key": "易搜pg",
