@@ -176,7 +176,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$0"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://api.wogg.xyz/$$$null$$$0"
         },
         {
             "key": "Hdhive",
@@ -186,7 +186,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$null$$$1"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$null$$$1"
         },
         {
             "key": "Ppxzy",
@@ -196,7 +196,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://ppxzy.net/$$$null$$$1"
         },
         {
             "key": "校长影视",
@@ -207,7 +207,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$null$$$1"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$null$$$1"
         },
         {
             "key": "团长资源",
@@ -218,7 +218,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$null$$$1"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$null$$$1"
         },
         {
             "key": "Wobg",
@@ -228,7 +228,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://wobge.run.goorm.io$$$1"
         },
         {
             "key": "新6V",
@@ -238,7 +238,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
             "key": "NanGua",
@@ -278,14 +278,14 @@
             "name": "💝阿里|易搜",
             "type": 3,
             "api": "csp_YiSo",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
         },
         {
             "key": "盘搜pg",
             "name": "💝阿里|盘搜",
             "type": 3,
             "api": "csp_PanSou",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
         },
         {
             "key": "賤賤pg",
@@ -545,21 +545,21 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/4khdr.txt$$$1"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/4khdr.txt$$$1"
         },
         {
             "key": "Sean",
             "name": "💝阿里|Sean",
             "type": 3,
             "api": "csp_Sean",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/tokenm.json"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
         },
         {
             "key": "UP云搜",
             "name": "💝阿里|UP云搜",
             "type": 3,
             "api": "csp_UpYun",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
         },
         {
             "key": "Dovx",
@@ -569,7 +569,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
         },
         {
             "key": "Gitcafe",
@@ -579,7 +579,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
         },
         {
             "key": "找資源",
@@ -589,7 +589,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
         },
         {
             "key": "drpy_js_酷吧",
@@ -711,7 +711,7 @@
             "type": 3,
             "api": "csp_Push",
             "changeable": 0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
         },
         {
             "key": "push_quark",
