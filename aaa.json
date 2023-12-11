@@ -44,7 +44,7 @@
             "changeable": 0,
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "ext": {
-                "token": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dk393722/tv/main/token.txt",
+                "token": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json",
                 "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
