@@ -231,6 +231,28 @@
             "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://wobge.run.goorm.io$$$1"
         },
         {
+            "key": "Funletu",
+            "name": "趣盘搜|夸克",
+            "type": 3,
+            "api": "csp_Funletu",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
+        },
+        {
+            "key": "QuarkPanso",
+            "name": "夸克盘搜|夸克",
+            "type": 3,
+            "api": "csp_QuarkPanso",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
+        },
+        {
             "key": "新6V",
             "name": "💝新6V|网盘",
             "type": 3,
@@ -1566,6 +1588,16 @@
             "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1
+        },
+        {
+            "key": "csp_Alistxy2",
+            "name": "🚤┃小雅┃",
+            "type": 3,
+            "api": "csp_AListxy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/Alistxy.json",
+            "jar": "http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/AListxy.jar"
         },
         {
             "key": "iqiyi采",
