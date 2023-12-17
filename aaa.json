@@ -137,6 +137,25 @@
             "changeable": 1
         },
         {
+            "key": "Local",
+            "name": "💝本地",
+            "type": 3,
+            "api": "csp_Local"
+        },
+        {
+            "key": "网盘配置",
+            "name": "💝网盘及彈幕配置",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
+        },
+        {
             "key": "直播转点播",
             "name": "💝pg┃电视┃直播",
             "type": 3,
@@ -154,8 +173,29 @@
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/douban.json"
         },
         {
+            "key": "996影院",
+            "name": "💝996影院",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "FirstAid",
+            "name": "💝🚑 急救知识 ",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            }
+        },
+        {
             "key": "短剧",
-            "name": "短剧",
+            "name": "💝短剧",
             "type": 3,
             "api": "csp_Duanju",
             "searchable": 0,
@@ -237,8 +277,30 @@
             "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://wobge.run.goorm.io$$$1"
         },
         {
+            "key": "YunSo",
+            "name": "💝小云搜索|网盘",
+            "type": 3,
+            "api": "csp_YunSo",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json"
+        },
+        {
+            "key": "YunPanOne",
+            "name": "💝云盘资源|网盘",
+            "type": 3,
+            "api": "csp_YunPanOne",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json"
+        },
+        {
             "key": "Funletu",
-            "name": "趣盘搜|夸克",
+            "name": "💝趣盘搜|夸克",
             "type": 3,
             "api": "csp_Funletu",
             "quickSearch": 1,
@@ -249,7 +311,7 @@
         },
         {
             "key": "QuarkPanso",
-            "name": "夸克盘搜|夸克",
+            "name": "💝夸克盘搜|夸克",
             "type": 3,
             "api": "csp_QuarkPanso",
             "quickSearch": 1,
@@ -287,7 +349,7 @@
         },
         {
             "key": "河马",
-            "name": "河马┃App",
+            "name": "💝河马┃App",
             "type": 3,
             "api": "csp_Hmys",
             "playerType": 1,
@@ -295,7 +357,7 @@
         },
         {
             "key": "天天",
-            "name": "天天┃App",
+            "name": "💝天天┃App",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
