@@ -299,6 +299,39 @@
             "ext": "./lib/tokenm.json"
         },
         {
+            "key": "Panta",
+            "name": "盘Ta|网盘",
+            "type": 3,
+            "api": "csp_Panta",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$0"
+        },
+        {
+            "key": "DaPanSo",
+            "name": "大盘搜|网盘",
+            "type": 3,
+            "api": "csp_DaPanSo",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null"
+        },
+        {
+            "key": "Qianfan",
+            "name": "千帆|网盘",
+            "type": 3,
+            "api": "csp_Qianfan",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID="
+        },
+        {
             "key": "Funletu",
             "name": "💝趣盘搜|夸克",
             "type": 3,
@@ -2808,7 +2841,7 @@
             "name": "imdb(采)",
             "type": 0,
             "api": "https://api.imdb123.com/api.php/provide/vod/from/imdb/at/xml/",
-            "playUrl": "json:https://api.imdb123.com/x/xapi/get_vod_url.php?token=306243089&vid=imdb_XNMTAwNTQ3MDBfMQ==",
+            "playUrl": "json:https://api.imdb123.com/x/xapi/get_vod_url.php?token=306243089&vid=",
             "categories": [
                 "国产动漫",
                 "中国动漫",
