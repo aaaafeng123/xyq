@@ -222,7 +222,19 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://api.wogg.xyz/$$$null$$$0"
+            "timeout": 30,
+            "ext": "https://gitcode.net/2301_81735600/aaaa/-/raw/master/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$https://fm.t4tv.hz.cz/json/wogg.json"
+        },
+        {
+            "key": "影视车",
+            "name": "💝影视车|网盘",
+            "type": 3,
+            "api": "csp_Wogg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$https://www.weixine.net$$$1"
         },
         {
             "key": "Hdhive",
@@ -232,7 +244,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$null$$$1"
         },
         {
             "key": "Ppxzy",
@@ -242,7 +254,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://ppxzy.net/$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"
         },
         {
             "key": "校长影视",
@@ -253,7 +265,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$null$$$1"
         },
         {
             "key": "团长资源",
@@ -264,7 +276,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$null$$$1"
         },
         {
             "key": "Wobg",
@@ -274,7 +286,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://wobge.run.goorm.io$$$1"
+            "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"
         },
         {
             "key": "Libvio",
@@ -311,7 +323,7 @@
         },
         {
             "key": "PanSearch",
-            "name": "PanSearch|网盘",
+            "name": "💝PanSearch|网盘",
             "type": 3,
             "api": "csp_PanSearch",
             "quickSearch": 1,
@@ -325,14 +337,14 @@
             "name": "💝阿里|易搜",
             "type": 3,
             "api": "csp_YiSo",
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+            "ext": "./lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
         },
         {
             "key": "盘搜pg",
             "name": "💝阿里|盘搜",
             "type": 3,
             "api": "csp_PanSou",
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "Funletu",
@@ -343,7 +355,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "QuarkPanso",
@@ -354,11 +366,11 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "Panta",
-            "name": "盘Ta|网盘",
+            "name": "💝盘Ta|网盘",
             "type": 3,
             "api": "csp_Panta",
             "quickSearch": 1,
@@ -369,7 +381,7 @@
         },
         {
             "key": "DaPanSo",
-            "name": "大盘搜|网盘",
+            "name": "💝大盘搜|网盘",
             "type": 3,
             "api": "csp_DaPanSo",
             "quickSearch": 1,
@@ -380,7 +392,7 @@
         },
         {
             "key": "Qianfan",
-            "name": "千帆|网盘",
+            "name": "💝千帆|网盘",
             "type": 3,
             "api": "csp_Qianfan",
             "quickSearch": 1,
@@ -397,7 +409,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://www.66ss.org$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
             "key": "NanGua",
@@ -416,7 +428,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "Gitcafe",
@@ -426,7 +438,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "找資源",
@@ -436,7 +448,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$user$$$pass"
+            "ext": "./lib/tokenm.json$$$user$$$pass"
         },
         {
             "key": "蝴蝶",
@@ -720,21 +732,21 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/4khdr.txt$$$1"
+            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/4khdr.txt$$$1"
         },
         {
             "key": "Sean",
             "name": "💝阿里|Sean",
             "type": 3,
             "api": "csp_Sean",
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "UP云搜",
             "name": "💝阿里|UP云搜",
             "type": 3,
             "api": "csp_UpYun",
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "drpy_js_酷吧",
@@ -856,7 +868,7 @@
             "type": 3,
             "api": "csp_Push",
             "changeable": 0,
-            "ext": "https://gitee.com/ajin0913/jin/raw/master/lib/PG推送1.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "push_quark",
@@ -5292,6 +5304,15 @@
             ],
             "script": [
                 "document.getElementsByClassName(\"vjs-big-play-button\")[0].click()"
+            ]
+        },
+        {
+            "name": "毛驢",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
             ]
         }
     ],
