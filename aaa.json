@@ -35,6 +35,15 @@
             }
         },
         {
+            "key": "JustLive",
+            "name": "❤️JustLive",
+            "type": 3,
+            "api": "csp_JustLive",
+            "searchable": 1,
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+            "changeable": 0
+        },
+        {
             "key": "玩偶",
             "name": "❤️玩偶[蜂蜜版]",
             "type": 3,
@@ -59,7 +68,45 @@
                 "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
                 "筛选": "1"
             },
-            "jar": "https://123.155123.xyz/HeChengChaXiu.jar"
+            "jar": "https://123.155123.xyz/Yoursmile.jar"
+        },
+        {
+            "key": "AList1",
+            "name": "👑小雅网盘4k👑",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://framagit.org/ymz123/xym/-/raw/tv/alistjar.json?ref_type=heads"
+        },
+        {
+            "key": "alist",
+            "name": "🍰小鸭┃网盘",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_AList",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
+                "drives": [
+                    {
+                        "name": "🦆托盘",
+                        "server": "https://pan.mediy.cn/"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "小胡",
+            "name": "👒资源┃小胡",
+            "searchable": 1,
+            "quickSearch": 1,
+            "type": 1,
+            "playerType": 1,
+            "api": "http://c.小胡.icu/api.php/provide/vod/"
         },
         {
             "key": "賤賤",
@@ -211,7 +258,7 @@
             "changeable": 0,
             "ext": {
                 "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-                "cookie": ""
+                "cookie": "buvid3=8B57D3BA-607A-1E85-018A-E8C430023CED42659infoc; b_lsid=BEB8EE7F_18742FF8C2E; bsource=search_baidu; _uuid=DE810E367-B52C-AF6E-A612-EDF4C31567F358591infoc; b_nut=100; buvid_fp=711a632b5c876fa8bbcf668c1efba551; SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7; sid=5h4ruv6o; buvid4=978E9208-13DA-F87A-3DC0-0B8EDF46E80434329-123040301-dWliG5BMrUb70r3g583u7w%3D%3D"
             }
         },
         {
