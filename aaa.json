@@ -81,6 +81,15 @@
             "ext": "https://framagit.org/ymz123/xym/-/raw/tv/alistjar.json?ref_type=heads"
         },
         {
+            "key": "AList2",
+            "name": "AList(aa)",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/xiaoya.json"
+        },
+        {
             "key": "alist",
             "name": "🍰小鸭┃网盘",
             "type": 3,
@@ -292,6 +301,17 @@
             "changeable": 1,
             "filterable": 1,
             "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://fm.t4tv.hz.cz/json/wogg.json"
+        },
+        {
+            "key": "Pan99",
+            "name": "💝盘99|网盘",
+            "type": 3,
+            "api": "csp_Pan99",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
         },
         {
             "key": "Hdhive",
