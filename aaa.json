@@ -4910,11 +4910,34 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "youzai",
+            "name": "央视频嗅探txt",
             "type": 0,
-            "url": "https://codeberg.org/youzai/yz/raw/branch/main/yz.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "header": {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+                "Referer": "https://www.yangshipin.cn/"
+            },
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/%E5%A4%AE%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2.txt"
+        },
+        {
+            "name": "荔枝嗅探",
+            "type": 0,
+            "header": {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+                "Referer": "https://www.gdtv.cn/"
+            },
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/%E8%8D%94%E6%9E%9D%E5%97%85%E6%8E%A2.txt"
+        },
+        {
+            "name": "央视频嗅探m3u",
+            "type": 0,
+            "header": {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+                "Referer": "https://www.yangshipin.cn/"
+            },
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/ysp.m3u"
         },
         {
             "name": "南风",
