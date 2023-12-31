@@ -258,6 +258,17 @@
             "changeable": 1
         },
         {
+            "key": "drpy_js_磁力熊",
+            "name": "💝磁力熊[js]|索引",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/cilixiongp.js",
+            "playerType": "1",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 1
+        },
+        {
             "key": "bili",
             "name": "💝B站 | Bili[jar]",
             "type": 3,
@@ -279,7 +290,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://gitcode.net/2301_81735600/aaaa/-/raw/master/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$https://fm.t4tv.hz.cz/json/wogg.json"
+            "ext": "https://gitcode.net/2301_81735600/aaaa/-/raw/master/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/wogg.json"
         },
         {
             "key": "影视车",
@@ -290,7 +301,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$https://fm.t4tv.hz.cz/json/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/wogg.json"
         },
         {
             "key": "Wobg",
@@ -300,7 +311,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://fm.t4tv.hz.cz/json/wogg.json"
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/wogg.json"
         },
         {
             "key": "Pan99",
@@ -321,6 +333,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
+            "timeout": 30,
             "ext": "./lib/tokenm.json$$$null$$$1"
         },
         {
@@ -331,6 +344,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
+            "timeout": 30,
             "ext": "./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"
         },
         {
@@ -364,7 +378,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://www.libvio.fun$$$null"
+            "ext": "./lib/tokenm.json$$$https://www.libvio.vip$$$null"
         },
         {
             "key": "PanSearch",
@@ -382,6 +396,7 @@
             "name": "💝阿里|易搜",
             "type": 3,
             "api": "csp_YiSo",
+            "timeout": 30,
             "ext": "./lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
         },
         {
@@ -389,6 +404,7 @@
             "name": "💝阿里|盘搜",
             "type": 3,
             "api": "csp_PanSou",
+            "timeout": 30,
             "ext": "./lib/tokenm.json"
         },
         {
@@ -485,6 +501,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "timeout": 30,
             "ext": "./lib/tokenm.json"
         },
         {
@@ -495,6 +512,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "timeout": 30,
             "ext": "./lib/tokenm.json"
         },
         {
@@ -505,6 +523,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "timeout": 30,
             "ext": "./lib/tokenm.json$$$user$$$pass"
         },
         {
@@ -915,7 +934,7 @@
         },
         {
             "key": "PikPakShare",
-            "name": "PikPak分享",
+            "name": "💝PikPak分享",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -923,7 +942,79 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt"
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.q.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.r.json.txt.gz"
+        },
+        {
+            "key": "PikPakShare2",
+            "name": "💝PikPak分享2",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.o.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.p.json.txt"
+        },
+        {
+            "key": "PikPakShare3",
+            "name": "💝PikPak分享3",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.m.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.n.json.txt.gz"
+        },
+        {
+            "key": "PikPakShare4",
+            "name": "💝PikPak分享4",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.l.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.k.json.txt"
+        },
+        {
+            "key": "PikPakShare5",
+            "name": "💝PikPak分享5",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.g.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.j.txt"
+        },
+        {
+            "key": "PikPakShare6",
+            "name": "💝PikPak分享6",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.h.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.i.json.txt"
+        },
+        {
+            "key": "PikPakShare7",
+            "name": "💝PikPak分享7",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.s.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.t.json.txt"
         },
         {
             "key": "csp_Mp4Mov",
