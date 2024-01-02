@@ -5023,16 +5023,21 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "挺好",
+            "name": "kimen",
             "type": 0,
-            "url": "http://111.67.196.189/tvbox/tv/thtv.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "kimen",
+            "name": "jinping.m3u",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/jinping.m3u"
+        },
+        {
+            "name": "jinping.txt",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/jinping.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
