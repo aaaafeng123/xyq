@@ -5398,10 +5398,10 @@
                 "haiwaikan"
             ],
             "regex": [
-                "8.1748",
                 "10.0099",
                 "10.3333",
                 "16.0599",
+                "8.1748",
                 "12.33",
                 "10.85"
             ]
@@ -5493,12 +5493,21 @@
             ]
         },
         {
-            "name": "點擊",
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "夜市",
             "hosts": [
                 "yeslivetv.com"
             ],
             "script": [
-                "document.getElementsByClassName(\"vjs-big-play-button\")[0].click()"
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
             ]
         },
         {
