@@ -5042,6 +5042,11 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
+            "name": "广东2024.1.2.m3u",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/广东2024.1.2.m3u"
+        },
+        {
             "name": "央视频嗅探txt",
             "type": 0,
             "header": {
