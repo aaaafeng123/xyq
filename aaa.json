@@ -290,7 +290,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://gitcode.net/2301_81735600/aaaa/-/raw/master/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/wogg.json"
+            "ext": "https://gitcode.net/2301_81735600/aaaa/-/raw/master/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/wogg.json"
         },
         {
             "key": "影视车",
@@ -378,7 +378,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://www.libvio.vip$$$null"
+            "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
         },
         {
             "key": "PanSearch",
