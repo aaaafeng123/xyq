@@ -5084,6 +5084,12 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/ysp.m3u"
         },
         {
+            "name": "央视频全套嗅探.m3u",
+            "type": 0,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/央视频全套.m3u"
+        },
+        {
             "name": "南风",
             "type": 0,
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
