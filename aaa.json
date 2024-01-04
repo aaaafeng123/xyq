@@ -393,7 +393,7 @@
         },
         {
             "key": "易搜pg",
-            "name": "💝阿里|易搜",
+            "name": "💝易搜|网盘",
             "type": 3,
             "api": "csp_YiSo",
             "timeout": 30,
@@ -401,7 +401,7 @@
         },
         {
             "key": "盘搜pg",
-            "name": "盘搜|网盘",
+            "name": "💝盘搜|网盘",
             "type": 3,
             "api": "csp_PanSou",
             "timeout": 30,
@@ -5042,16 +5042,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "广东2024.1.2.m3u",
+            "name": "全球.m3u",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/广东2024.1.2.m3u"
-        },
-        {
-            "name": "tg捡的",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/tg捡的.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "url": "https://gitcode.net/u012349622/iptv/-/raw/master/全球.m3u"
         },
         {
             "name": "央视频嗅探txt",
