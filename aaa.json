@@ -401,7 +401,7 @@
         },
         {
             "key": "盘搜pg",
-            "name": "💝阿里|盘搜",
+            "name": "盘搜|网盘",
             "type": 3,
             "api": "csp_PanSou",
             "timeout": 30,
@@ -460,7 +460,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID="
+            "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID=qlsnex1umpasft7om72uhqkyqi5d62g2; _ga_6Z94VT54DV=GS1.1.1703650120.1.1.1703650203.0.0.0"
         },
         {
             "key": "YunSo",
@@ -524,7 +524,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$user$$$pass"
+            "ext": "./lib/tokenm.json$$$xzqcsa$$$305306csa"
         },
         {
             "key": "新6V",
