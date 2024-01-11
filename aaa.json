@@ -418,6 +418,14 @@
             "ext": "./lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
         },
         {
+            "key": "混合盘",
+            "name": "💝混合盘|网盘",
+            "type": 3,
+            "api": "csp_HunHePan",
+            "timeout": 30,
+            "ext": "./lib/tokenm.json"
+        },
+        {
             "key": "秒搜",
             "name": "💝秒搜|网盘",
             "type": 3,
@@ -478,7 +486,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID=lgcu827xin1bfrx5wow29ifll2l1syt6"
+            "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$csrftoken=gLzqC5bjMSDYGyZ0IZcQXSUCNDXcLnAH2PUqV4kWgfUKHLO3pw3cAkUl0wwdJwvq; QianFanID=cczzz85l0kercw8ipkrd7pd9ifpht00c"
         },
         {
             "key": "YunSo",
