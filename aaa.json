@@ -415,7 +415,7 @@
             "type": 3,
             "api": "csp_YiSo",
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+            "ext": "./lib/tokenm.json$$$__51uvsct__JkIGvjjs25ETn0wz=1; __51vcke__JkIGvjjs25ETn0wz=b967b8c0-3e21-5cdb-9565-45b16b4f6e44; __51vuft__JkIGvjjs25ETn0wz=1704941101583; JSESSIONID=8A1352589BF3FAAB7E7758B7A1787E0D; satoken=c735d40f-ee18-46c5-a1fa-e170ed2ac212; cf_clearance=J7lYiXrfrc7l9ZnzTmu_pRBB8VOIdATpJiArSR9_okA-1704941132-0-2-b7976279.326091f1.951139b1-0.2.1704941132; __vtins__JkIGvjjs25ETn0wz=%7B%22sid%22%3A%20%22dfaf9b54-d0a6-538c-830d-dbe25c2a4713%22%2C%20%22vd%22%3A%203%2C%20%22stt%22%3A%2030282%2C%20%22dr%22%3A%2026838%2C%20%22expires%22%3A%201704942931859%2C%20%22ct%22%3A%201704941131859%7D"
         },
         {
             "key": "混合盘",
@@ -476,6 +476,17 @@
             "filterable": 1,
             "timeout": 30,
             "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null"
+        },
+        {
+            "key": "PikaSo",
+            "name": "💝皮卡搜|网盘",
+            "type": 3,
+            "api": "csp_PikaSo",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null"
         },
         {
             "key": "Qianfan",
