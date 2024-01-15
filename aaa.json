@@ -203,6 +203,78 @@
             "changeable": 1
         },
         {
+            "key": "zxzj_open.js",
+            "name": "在线之家(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/zxzj_open.js"
+        },
+        {
+            "key": "nkvod_open.js",
+            "name": "耐看点播(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/nkvod_open.js"
+        },
+        {
+            "key": "4kysxz_open.js",
+            "name": "4k影视(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/4kysxz_open.js"
+        },
+        {
+            "key": "ggys_open.js",
+            "name": "高光影视(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/ggys_open.js"
+        },
+        {
+            "key": "dsxys_open.js",
+            "name": "大师兄(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/dsxys_open.js"
+        },
+        {
+            "key": "ngsp",
+            "name": "🥐南瓜(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/ng_open.js"
+        },
+        {
+            "key": "yqktv_open.js",
+            "name": "🎄一起看(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/yqktv_open.js"
+        },
+        {
+            "key": "ks_open",
+            "name": "素白白(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/subaibai_open.js"
+        },
+        {
+            "key": "555dy_open.js",
+            "name": "555电影(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/555dy_open.js"
+        },
+        {
+            "key": "sc1080",
+            "name": "圣城影视(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/sc1080_open.js"
+        },
+        {
+            "key": "xinshijue",
+            "name": "新视觉影院(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/xinshijue_open.js"
+        },
+        {
+            "key": "ys996_open.js",
+            "name": "ys996(cat)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/ys996_open.js"
+        },
+        {
             "key": "Local",
             "name": "💝本地",
             "type": 3,
@@ -389,6 +461,17 @@
             "filterable": 1,
             "timeout": 30,
             "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
+        },
+        {
+            "key": "YydsVip",
+            "name": "💝YYDSVIP|网盘",
+            "type": 3,
+            "api": "csp_YydsVip_Disable",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$http://yydsvip.cn$$$null$$$1"
         },
         {
             "key": "PanSearch",
