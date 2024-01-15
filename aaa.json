@@ -466,7 +466,7 @@
             "key": "YydsVip",
             "name": "💝YYDSVIP|网盘",
             "type": 3,
-            "api": "csp_YydsVip_Disable",
+            "api": "csp_YydsVip",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
