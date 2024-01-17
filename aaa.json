@@ -203,6 +203,17 @@
             "changeable": 1
         },
         {
+            "key": "kanqiu",
+            "name": "88看球(cat)",
+            "type": 3,
+            "api": "./js/kanqiu_open.js",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "zxzj_open.js",
             "name": "在线之家(cat)",
             "type": 3,
@@ -279,6 +290,18 @@
             "name": "💝本地",
             "type": 3,
             "api": "csp_Local"
+        },
+        {
+            "key": "AliShare",
+            "name": "阿里云盘分享",
+            "type": 3,
+            "api": "csp_AliShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/token.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.txt$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.db.txt.gz"
         },
         {
             "key": "网盘配置",
@@ -372,7 +395,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "https://gitcode.net/2301_81735600/aaaa/-/raw/master/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/wogg.json"
         },
         {
             "key": "影视车",
