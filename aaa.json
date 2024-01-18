@@ -80,6 +80,17 @@
             "filterable": 1
         },
         {
+            "key": "阿里云集合",
+            "name": "阿里云|4K",
+            "type": 3,
+            "api": "csp_阿里云集合",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/aa/main/jar/阿里合集.jar",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": "./fan/token"
+        },
+        {
             "key": "AList1",
             "name": "👑小雅网盘4k👑",
             "type": 3,
