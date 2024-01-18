@@ -1123,7 +1123,7 @@
         },
         {
             "key": "PikPakShare",
-            "name": "💝PikPak分享",
+            "name": "💝PikPak分享q",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -1135,7 +1135,7 @@
         },
         {
             "key": "PikPakShare2",
-            "name": "💝PikPak分享2",
+            "name": "💝PikPak分享o",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -1147,7 +1147,7 @@
         },
         {
             "key": "PikPakShare3",
-            "name": "💝PikPak分享3",
+            "name": "💝PikPak分享m",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -1159,7 +1159,7 @@
         },
         {
             "key": "PikPakShare4",
-            "name": "💝PikPak分享4",
+            "name": "💝PikPak分享l",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -1171,7 +1171,7 @@
         },
         {
             "key": "PikPakShare5",
-            "name": "💝PikPak分享5",
+            "name": "💝PikPak分享g",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -1183,7 +1183,7 @@
         },
         {
             "key": "PikPakShare6",
-            "name": "💝PikPak分享6",
+            "name": "💝PikPak分享h",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -1195,7 +1195,7 @@
         },
         {
             "key": "PikPakShare7",
-            "name": "💝PikPak分享7",
+            "name": "💝PikPak分享s",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -1207,7 +1207,7 @@
         },
         {
             "key": "PikPakShare8",
-            "name": "💝PikPak分享8",
+            "name": "💝PikPak分享a",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -1215,11 +1215,11 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "https://gitcode.net/2301_81735600/aaaa/-/raw/master/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.a.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.a.json.txt.gz"
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.a.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.a.json.txt.gz"
         },
         {
             "key": "PikPakShare9",
-            "name": "💝PikPak分享9",
+            "name": "💝PikPak分享c",
             "type": 3,
             "api": "csp_PikPakShare",
             "searchable": 1,
@@ -1227,7 +1227,103 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "https://gitcode.net/2301_81735600/aaaa/-/raw/master/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.c.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.c.json.txt.gz"
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.c.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.c.json.txt.gz"
+        },
+        {
+            "key": "PikPakShare10",
+            "name": "💝PikPak分享z",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.z.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.z.json.txt.gz"
+        },
+        {
+            "key": "PikPakShare11",
+            "name": "💝PikPak分享x",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.x.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.x.json.txt.gz"
+        },
+        {
+            "key": "PikPakShare12",
+            "name": "💝PikPak分享v",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.v.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.v.json.txt.gz"
+        },
+        {
+            "key": "PikPakShare13",
+            "name": "💝PikPak分享b",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.b.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.b.json.txt.gz"
+        },
+        {
+            "key": "PikPakShare14",
+            "name": "💝PikPak分享n",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.n.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.n.json.txt.gz"
+        },
+        {
+            "key": "PikPakShare15",
+            "name": "💝PikPak分享w",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.w.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.w.json.txt.gz"
+        },
+        {
+            "key": "PikPakShare16",
+            "name": "💝PikPak分享e",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.e.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.e.json.txt.gz"
+        },
+        {
+            "key": "PikPakShare17",
+            "name": "💝PikPak分享r",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.r.json$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/pikpak/pikpakclass.r.json.txt.gz"
         },
         {
             "key": "csp_Mp4Mov",
