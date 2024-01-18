@@ -327,6 +327,18 @@
             "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/thundershare.txt"
         },
         {
+            "key": "QuarkShare",
+            "name": "💝夸克云盘分享",
+            "type": 3,
+            "api": "csp_QuarkShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/quarkshare.txt"
+        },
+        {
             "key": "网盘配置",
             "name": "💝网盘及彈幕配置",
             "type": 3,
