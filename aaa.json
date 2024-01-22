@@ -821,17 +821,6 @@
             "ext": "./lib/tokenm.json"
         },
         {
-            "key": "找資源",
-            "name": "💝阿里|找資源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "timeout": 30,
-            "ext": "./lib/tokenm.json$$$xzqcsa$$$305306csa"
-        },
-        {
             "key": "新6V",
             "name": "💝新6V|网盘",
             "type": 3,
@@ -858,14 +847,6 @@
             "ext": "http://op.ysdqjs.cn$$$null$$$1"
         },
         {
-            "key": "蝴蝶",
-            "name": "💝蝴蝶┃App",
-            "type": 3,
-            "api": "csp_Hudie",
-            "playerType": 2,
-            "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
-        },
-        {
             "key": "賤賤pg",
             "name": "💝荐片",
             "type": 3,
@@ -874,6 +855,14 @@
             "changeable": 1,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/jianpian.json$$$1",
             "timeout": 60
+        },
+        {
+            "key": "蝴蝶",
+            "name": "💝蝴蝶┃App",
+            "type": 3,
+            "api": "csp_Hudie",
+            "playerType": 2,
+            "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
         },
         {
             "key": "攻阁",
@@ -885,7 +874,7 @@
         },
         {
             "key": "tvbsk",
-            "name": "TVB云播┃App",
+            "name": "💝TVB云播┃App",
             "type": 3,
             "api": "csp_Skapp",
             "playerType": 2,
@@ -893,7 +882,7 @@
         },
         {
             "key": "星星",
-            "name": "星星┃App",
+            "name": "💝星星┃App",
             "type": 3,
             "api": "csp_Appto",
             "searchable": 0,
