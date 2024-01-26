@@ -405,6 +405,28 @@
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/adm_open.js"
         },
         {
+            "key": "豆瓣pg",
+            "name": "💝豆瓣pg",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/douban.json"
+        },
+        {
+            "key": "网盘配置",
+            "name": "💝网盘及彈幕配置",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
+        },
+        {
             "key": "Local",
             "name": "💝本地",
             "type": 3,
@@ -423,18 +445,6 @@
             "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.txt"
         },
         {
-            "key": "ThunderShare",
-            "name": "💝迅雷云盘分享",
-            "type": 3,
-            "api": "csp_ThunderShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/thundershare.txt"
-        },
-        {
             "key": "QuarkShare",
             "name": "💝夸克云盘分享",
             "type": 3,
@@ -447,17 +457,16 @@
             "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/quarkshare.txt"
         },
         {
-            "key": "网盘配置",
-            "name": "💝网盘及彈幕配置",
+            "key": "ThunderShare",
+            "name": "💝迅雷云盘分享",
             "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
+            "api": "csp_ThunderShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/thundershare.txt"
         },
         {
             "key": "直播转点播",
@@ -466,24 +475,6 @@
             "searchable": 0,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/live2vod.js",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/feimaolive.json"
-        },
-        {
-            "key": "豆瓣pg",
-            "name": "💝豆瓣pg",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/douban.json"
-        },
-        {
-            "key": "996影院",
-            "name": "💝996影院",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.cs1369.com$$$null$$$1"
         },
         {
             "key": "FirstAid",
@@ -497,14 +488,6 @@
                 "type": "rect",
                 "ratio": 3.8
             }
-        },
-        {
-            "key": "短剧",
-            "name": "💝短剧",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 0,
-            "changeable": 1
         },
         {
             "key": "drpy_js_磁力熊",
@@ -788,6 +771,15 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30
+        },
+        {
+            "key": "996影院",
+            "name": "💝996影院",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://www.cs1369.com$$$null$$$1"
         },
         {
             "key": "NanGua",
@@ -1085,12 +1077,28 @@
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/js/alist.json"
         },
         {
+            "key": "短剧",
+            "name": "💝短剧",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
             "key": "MV_vod",
             "name": "💝电视┃MTV",
             "type": 1,
             "api": "https://mv.wogg.link/mv/vod",
             "searchable": 1,
             "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "酷狗",
+            "name": "💝酷狗",
+            "type": 3,
+            "api": "csp_Kugou",
+            "searchable": 1,
             "changeable": 0
         },
         {
