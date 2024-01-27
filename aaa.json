@@ -88,7 +88,18 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "./fan/token"
+            "ext": "8c49dcc174cf4c7591883132cfe5db87"
+        },
+        {
+            "key": "磁力合集",
+            "name": "磁力合集",
+            "type": 3,
+            "api": "csp_磁力集合",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": "",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/aa/main/jar/阿里集合.jar"
         },
         {
             "key": "AList1",
@@ -3943,9 +3954,9 @@
         {
             "key": "金鹰釆集",
             "name": "金鹰釆集",
-            "type": "1",
-            "api": "https://jyzyapi.com/provide/vod",
-            "playUrl": "",
+            "type": "0",
+            "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+            "playUrl": "https://hd.iapijy.com/play?url=",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
