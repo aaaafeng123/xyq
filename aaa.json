@@ -121,6 +121,16 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/xiaoya.json"
         },
         {
+            "key": "alist2",
+            "name": "🍰2┃小鸭┃网盘",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://alist.xn--z7x900a.live/alist.json"
+        },
+        {
             "key": "alist",
             "name": "🍰小鸭┃网盘",
             "type": 3,
