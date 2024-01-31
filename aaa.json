@@ -88,7 +88,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "8c49dcc174cf4c7591883132cfe5db87"
+            "ext": "./token"
         },
         {
             "key": "磁力合集",
@@ -4379,8 +4379,8 @@
         {
             "key": "百度云资源",
             "name": "百度云资源采集",
-            "type": "1",
-            "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+            "type": "0",
+            "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml/?ac=list",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -4451,6 +4451,7 @@
             "name": "卧龙资源采集",
             "type": "0",
             "api": "https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list",
+            "playUrl": "https://jx.wolongzywcdn.com:65/m3u8.php?url=",
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -4522,6 +4523,10 @@
             "type": "1",
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
             "playUrl": "https://jx.yhzybf.com/player/jx.php?url=",
+            "header": {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+            },
             "searchable": "1",
             "filterable": "1",
             "changeable": "1",
@@ -5475,6 +5480,24 @@
             "regex": [
                 "20.099",
                 "6.166"
+            ]
+        },
+        {
+            "name": "百度zy",
+            "hosts": [
+                "bdzy"
+            ],
+            "regex": [
+                "14.44"
+            ]
+        },
+        {
+            "name": "鱼乐",
+            "hosts": [
+                "ylzy"
+            ],
+            "regex": [
+                "15.84"
             ]
         },
         {
