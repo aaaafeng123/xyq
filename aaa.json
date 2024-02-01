@@ -5048,22 +5048,45 @@
         {
             "name": "🎈范明明",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "Ftindy",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/GSYD-IPV6.m3u",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
         },
         {
             "name": "俊于直播",
             "type": 0,
             "url": "http://home.jundie.top:81/Cat/tv/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
+            "name": "YueChan",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+        },
+        {
+            "name": "YanG-1989",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "Meroser",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u"
+        },
+        {
+            "name": "Kimentanm",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+        },
+        {
+            "name": "tvkj.top",
+            "type": 0,
+            "url": "https://tvkj.top/tvlive.txt"
+        },
+        {
+            "name": "tt.iitvba.com",
+            "type": 0,
+            "url": "http://tt.iitvba.com/tv.txt"
         },
         {
             "name": "kimen",
