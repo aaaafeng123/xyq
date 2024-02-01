@@ -2183,6 +2183,32 @@
             "jar": "http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/AListxy.jar"
         },
         {
+            "key": "AList",
+            "name": "AList",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "recordable": 0,
+            "ext": {
+                "drives": [
+                    {
+                        "name": "9T",
+                        "server": "https://drive.9t.ee",
+                        "params": [
+                            {
+                                "path": "/OneDrive",
+                                "pass": "dooglu"
+                            },
+                            {
+                                "path": "/115Cloud",
+                                "pass": "dooglu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
             "key": "iqiyi采",
             "name": "爱奇艺(采)",
             "type": 1,
@@ -2652,20 +2678,24 @@
             "quickSearch": 0
         },
         {
-            "key": "业余采集B",
-            "name": "♻ 业余私自营 ",
+            "key": "业余采集A",
+            "name": "♻ 业余自营 ",
             "type": 1,
-            "api": "http://yydf.kele.plus/api.php/provide/vod/?ac=list",
-            "playerType": "2",
+            "api": "http://ys.540734621.xyz/api.php/provide/vod/",
+            "playerType": "1",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "categories": [
+                "短剧",
                 "电影",
                 "电视剧",
                 "动漫",
                 "综艺",
-                "体育赛事"
+                "记录片",
+                "音乐",
+                "影视解说",
+                "体育"
             ]
         },
         {
@@ -5018,8 +5048,15 @@
         {
             "name": "🎈范明明",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "Ftindy",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/GSYD-IPV6.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
@@ -5029,28 +5066,9 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
-            "name": "广东移动官源",
-            "type": 0,
-            "url": "https://pan.shangui.cc/f/pj3ghL/YD1126IPv6-.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "kimen",
             "type": 0,
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "jinping.m3u",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/jinping.m3u"
-        },
-        {
-            "name": "jinping.txt",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/live/jinping.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
