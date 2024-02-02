@@ -441,10 +441,6 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/tokenm.json"
         },
         {
@@ -455,7 +451,7 @@
         },
         {
             "key": "AliShare",
-            "name": "💝阿里云盘分享",
+            "name": "💝阿里云盘影视分享",
             "type": 3,
             "api": "csp_AliShare",
             "searchable": 1,
@@ -464,6 +460,18 @@
             "filterable": 0,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.txt"
+        },
+        {
+            "key": "AliShareEBook",
+            "name": "💝阿里云盘书籍分享",
+            "type": 3,
+            "api": "csp_AliShare",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.ebook.txt"
         },
         {
             "key": "QuarkShare",
