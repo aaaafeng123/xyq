@@ -91,6 +91,17 @@
             "ext": "./token"
         },
         {
+            "key": "阿里云集合2",
+            "name": "阿里云集合|4K",
+            "type": 3,
+            "api": "csp_阿里云集合",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/jar/阿里集合.json;./token",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/jar/真心真语0204+列表+搜索.jar"
+        },
+        {
             "key": "磁力合集",
             "name": "磁力合集",
             "type": 3,
@@ -466,12 +477,16 @@
             "name": "💝阿里云盘书籍分享",
             "type": 3,
             "api": "csp_AliShare",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.ebook.txt"
+            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.ebook.txt",
+            "style": {
+                "type": "rect",
+                "ratio": 1.1
+            }
         },
         {
             "key": "QuarkShare",
@@ -574,6 +589,28 @@
             "filterable": 1,
             "timeout": 30,
             "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/wogg.json"
+        },
+        {
+            "key": "tudou",
+            "name": "💝土豆网盘",
+            "type": 3,
+            "api": "csp_Wogg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/wogg.json"
+        },
+        {
+            "key": "玩我",
+            "name": "玩我哥哥",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$http://www.ttkx.live$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/wogg.json"
         },
         {
             "key": "Pan99",
