@@ -84,7 +84,7 @@
             "name": "阿里云|4K",
             "type": 3,
             "api": "csp_阿里云集合",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/aa/main/jar/阿里集合.jar",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/jar/阿里集合.jar",
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
@@ -470,7 +470,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.txt"
+            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.txt$$$db$$$1"
         },
         {
             "key": "AliShareEBook",
@@ -482,9 +482,9 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.ebook.txt",
+            "ext": "./lib/tokenm.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/alishare.ebook.txt$$$db$$$1",
             "style": {
-                "type": "rect",
+                "type": "list",
                 "ratio": 1.1
             }
         },
@@ -1034,6 +1034,7 @@
             "name": "💝阿里|UP云搜",
             "type": 3,
             "api": "csp_UpYun",
+            "timeout": 30,
             "ext": "./lib/tokenm.json"
         },
         {
