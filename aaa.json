@@ -113,6 +113,34 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/aa/main/jar/阿里集合.jar"
         },
         {
+            "key": "AList",
+            "name": "Alist",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+                "drives": [
+                    {
+                        "name": "小雅",
+                        "server": "http://xiaoya.xlog.cc/",
+                        "startPage": "/",
+                        "showAll": false,
+                        "search": true,
+                        "headers": {
+                            "Authorization": ""
+                        }
+                    },
+                    {
+                        "name": "ASMR",
+                        "server": "https://www.asmrgay.com/"
+                    }
+                ]
+            }
+        },
+        {
             "key": "AList1",
             "name": "👑小雅网盘4k👑",
             "type": 3,
@@ -168,6 +196,17 @@
             "type": 1,
             "playerType": 1,
             "api": "http://c.小胡.icu/api.php/provide/vod/"
+        },
+        {
+            "key": "追忆",
+            "name": "追忆｜影视",
+            "type": 3,
+            "api": "csp_App",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "jar": "http://47.93.215.151/YSZYZ.jar",
+            "ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
         },
         {
             "key": "賤賤",
@@ -443,6 +482,7 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
+            "indexs": 1,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aaaafeng123/PG/main/lib/douban.json"
         },
         {
@@ -827,15 +867,6 @@
             "filterable": 1,
             "timeout": 30,
             "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "996影院",
-            "name": "💝996影院",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.cs1369.com$$$null$$$1"
         },
         {
             "key": "NanGua",
@@ -2217,6 +2248,358 @@
             "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1
+        },
+        {
+            "key": "csp_骚火",
+            "name": "🅱️骚火影视|荷城茶秀",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/骚火影视.json"
+        },
+        {
+            "key": "csp_威士",
+            "name": "🅱️威士影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/威士影视.json"
+        },
+        {
+            "key": "csp_Free",
+            "name": "🅱️Free影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/Free影视.json"
+        },
+        {
+            "key": "csp_xBPQ_玖八",
+            "name": "🅱️玖八影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/98影视.json"
+        },
+        {
+            "key": "csp_蛋蛋",
+            "name": "🅱️蛋蛋影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/蛋蛋影视.json"
+        },
+        {
+            "key": "csp_星辰",
+            "name": "🅱️星辰影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/星辰影视.json"
+        },
+        {
+            "key": "csp_TVB",
+            "name": "🅱️TVB云播|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/TVB云播.json"
+        },
+        {
+            "key": "csp_农民",
+            "name": "🅱️农民影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/农民影视.json"
+        },
+        {
+            "key": "csp_xBPQ_奇优",
+            "name": "🅱️奇优影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/奇优影视.json"
+        },
+        {
+            "key": "csp_疯狗",
+            "name": "🅱️疯狗影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/疯狗影视.json"
+        },
+        {
+            "key": "csp_万达",
+            "name": "🅱️万达影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/万达影视.json"
+        },
+        {
+            "key": "csp_爱看",
+            "name": "🅱️爱看影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/爱看影视.json"
+        },
+        {
+            "key": "csp_七新",
+            "name": "🅱️七新影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/七新影视.json"
+        },
+        {
+            "key": "csp_超前",
+            "name": "🅱️超前点播|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/超前B站.json"
+        },
+        {
+            "key": "csp_热播",
+            "name": "🅱️热播之家|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/热播之家.json"
+        },
+        {
+            "key": "csp_玖摇",
+            "name": "🅱️玖摇影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/91影视.json"
+        },
+        {
+            "key": "csp_不卡",
+            "name": "🅱️不卡影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/真不卡影视.json"
+        },
+        {
+            "key": "csp_午舞",
+            "name": "🅱️午舞影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/五五影视.json"
+        },
+        {
+            "key": "csp_师兄",
+            "name": "🅱️师兄影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/大师兄影视.json"
+        },
+        {
+            "key": "csp_xBPQ_视觉",
+            "name": "🅱️视觉影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/新视觉影视.json"
+        },
+        {
+            "key": "csp_圣城",
+            "name": "🅱️圣城影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/圣城影视.json"
+        },
+        {
+            "key": "csp_好戏",
+            "name": "🅱️好戏影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/好戏影视.json"
+        },
+        {
+            "key": "csp_七月",
+            "name": "🅱️七月影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/七月影视.json"
+        },
+        {
+            "key": "csp_佳能",
+            "name": "🅱️佳能影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/348影视.json"
+        },
+        {
+            "key": "csp_土豪",
+            "name": "🅱️土豪影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/土豪影视.json"
+        },
+        {
+            "key": "csp_觅知",
+            "name": "🅱️觅知影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/觅知影视.json"
+        },
+        {
+            "key": "csp_达龟",
+            "name": "🅱️达龟影院|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/达达龟影视.json"
+        },
+        {
+            "key": "csp_七年",
+            "name": "🅱️七年影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/七年影视.json"
+        },
+        {
+            "key": "csp_黑狐",
+            "name": "🅱️黑狐影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/黑狐影视.json"
+        },
+        {
+            "key": "csp_苹果",
+            "name": "🅱️苹果影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/苹果影视.json"
+        },
+        {
+            "key": "csp_米爱",
+            "name": "🅱️米爱影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/米爱影视.json"
+        },
+        {
+            "key": "csp_低端",
+            "name": "🅱️低端影视|荷城茶秀",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": "http://rihou.cc:88/hccx/低端影视.json"
         },
         {
             "key": "csp_Alistxy2",
@@ -5088,6 +5471,32 @@
                 "网球",
                 "斯诺克"
             ]
+        },
+        {
+            "key": "NBH",
+            "name": "👿NBY",
+            "type": 1,
+            "api": "http://159.75.155.189:1133/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "header": {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+            },
+            "categories": [
+                "首页",
+                "电影",
+                "连续剧",
+                "综艺",
+                "动漫",
+                "纪录片",
+                "短剧",
+                "少儿"
+            ],
+            "playUrl": "http://103.233.255.142:1133/?url=",
+            "playerType": 2
         }
     ],
     "lives": [
@@ -5191,6 +5600,19 @@
         }
     ],
     "parses": [
+        {
+            "name": "NBY3",
+            "type": 1,
+            "url": "http://103.233.255.142:1133/?url=",
+            "ext": {
+                "flag": [
+                    "NBY"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+                }
+            }
+        },
         {
             "name": "巧巧",
             "type": 1,
