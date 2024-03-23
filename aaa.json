@@ -240,40 +240,27 @@
         },
         {
             "key": "baipiaoys",
-            "name": "🏡原996┃BPQ",
+            "name": "白嫖┃影视",
             "type": 3,
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/xbpq.jar",
             "api": "csp_XBPQ",
+            "jar": "https://www.baipiaoys.com/tv/南风.jar",
             "ext": {
-                "主页url": "http://www.baipiaoys.cc/",
-                "副标题": "pic-text text-right\">&&</b>",
+                "主页url": "http://www.baipiaoys.com/",
+                "副标题": "pic-text text-right\">&&",
                 "搜索模式": "1",
-                "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
+                "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
                 "图片": "data-original=\"&&\"",
                 "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "分类": "短剧$4#电影$1#电视剧$2#动漫$3#综艺$5",
-                "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+                "影片类型": "\n&&立即播放",
+                "导演": "导演：&&\n",
+                "主演": "主演：&&",
+                "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
+                "分类url": "http://www.baipiaoys.com/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
             }
-        },
-        {
-            "key": "Taohuazu",
-            "name": "桃花族(18+)",
-            "type": 3,
-            "api": "csp_Taohuazu",
-            "jar": "./pg.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "http://thze.cc/$$$socks5://192.168.101.1:1080"
         },
         {
             "key": "xyyy",
@@ -566,6 +553,49 @@
             "name": "爱动漫(cat)",
             "type": 3,
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/adm_open.js"
+        },
+        {
+            "key": "csp_Clg",
+            "name": "💖磁力狗",
+            "type": 3,
+            "api": "csp_Clg"
+        },
+        {
+            "key": "csp_JavDB",
+            "name": "💝csp_JavDB",
+            "type": 3,
+            "api": "csp_JavDB"
+        },
+        {
+            "key": "csp_JavBus",
+            "name": "💝csp_JavBus",
+            "type": 3,
+            "api": "csp_JavBus"
+        },
+        {
+            "key": "csp_Netflav",
+            "name": "💝csp_Netflav",
+            "type": 3,
+            "api": "csp_Netflav"
+        },
+        {
+            "key": "csp_Iktv",
+            "name": "💝KTV",
+            "type": 3,
+            "api": "csp_Iktv"
+        },
+        {
+            "key": "Taohuazu",
+            "name": "💝桃花族(18+)",
+            "type": 3,
+            "api": "csp_Taohuazu",
+            "jar": "./pg.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "http://thze.cc/$$$socks5://192.168.101.1:1080"
         },
         {
             "key": "豆瓣pg",
