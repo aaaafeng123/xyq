@@ -13,6 +13,17 @@
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
         },
         {
+            "key": "open_emby",
+            "name": "🗃Nas®Emby",
+            "type": 3,
+            "api": "./js/emby.js",
+            "ext": {
+                "server": "地址",
+                "username": "用户名",
+                "password": "密码"
+            }
+        },
+        {
             "key": "豆瓣",
             "name": "❤️豆瓣[蜂蜜版]",
             "type": 3,
@@ -33,6 +44,13 @@
             "style": {
                 "type": "list"
             }
+        },
+        {
+            "key": "电视",
+            "name": "📺电视直播",
+            "type": 3,
+            "api": "./cat.js/live_open.js",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
         },
         {
             "key": "JustLive",
@@ -56,19 +74,6 @@
                 "token": "https",
                 "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
-        },
-        {
-            "key": "996",
-            "name": "996影视",
-            "type": 3,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-                "筛选": "1"
-            },
-            "jar": "https://123.155123.xyz/Yoursmile.jar"
         },
         {
             "key": "ZYJK",
@@ -217,75 +222,6 @@
                     }
                 ]
             }
-        },
-        {
-            "key": "小胡",
-            "name": "👒资源┃小胡",
-            "searchable": 1,
-            "quickSearch": 1,
-            "type": 1,
-            "playerType": 1,
-            "api": "http://c.小胡.icu/api.php/provide/vod/"
-        },
-        {
-            "key": "追忆",
-            "name": "追忆｜影视",
-            "type": 3,
-            "api": "csp_App",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "http://47.93.215.151/YSZYZ.jar",
-            "ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
-        },
-        {
-            "key": "baipiaoys",
-            "name": "白嫖┃影视",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "jar": "https://www.baipiaoys.com/tv/南风.jar",
-            "ext": {
-                "主页url": "http://www.baipiaoys.com/",
-                "副标题": "pic-text text-right\">&&",
-                "搜索模式": "1",
-                "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
-                "图片": "data-original=\"&&\"",
-                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "影片类型": "\n&&立即播放",
-                "导演": "导演：&&\n",
-                "主演": "主演：&&",
-                "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-                "分类url": "http://www.baipiaoys.com/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-            }
-        },
-        {
-            "key": "xyyy",
-            "name": "小姨音乐",
-            "type": 4,
-            "api": "https://catbox.n13.club/wy.php"
-        },
-        {
-            "key": "csp_Czzy",
-            "name": "厂长🏭蓝光",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/cangzan.jar"
-        },
-        {
-            "kay": "厂长弹幕版",
-            "name": "厂长|ok版",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
         },
         {
             "key": "賤賤",
@@ -555,6 +491,24 @@
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/aaaafeng123/aa/main/mao.js/adm_open.js"
         },
         {
+            "key": "kuaikan.js",
+            "name": "快看(cat)",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jadehh/TVSpider/main/js/kuaikan.js"
+        },
+        {
+            "key": "nangua.js",
+            "name": "南瓜(cat)",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jadehh/TVSpider/main/js/nangua.js"
+        },
+        {
+            "key": "yiqikan.js",
+            "name": "一起看(cat)",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jadehh/TVSpider/main/js/yiqikan.js"
+        },
+        {
             "key": "BtSearch",
             "name": "💝BtSearch｜磁力搜索",
             "type": 3,
@@ -610,6 +564,351 @@
             "name": "💝KTV",
             "type": 3,
             "api": "csp_Iktv"
+        },
+        {
+            "key": "MP4",
+            "name": "🧲1080P┃磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": {
+                "站名": "磁力追剧",
+                "分类": "电视剧$13#动作片$6#科幻片$7#爱情片$8#喜剧片$9#恐怖片$10#战争片$11#剧情片$12",
+                "搜索url": "https://www.zmp4.com/vodsearch.html?wd={wd}",
+                "播放数组": "class=\"panel down-list thunder1&&</ul",
+                "线路数组": "class=\"stui-pannel__head active&&</div",
+                "线路标题": "class=\"title titlego\">&&</h3",
+                "分类url": "https://www.zmp4.com/show/{cateId}/page/{catePg}/year/{year}.html;;a"
+            }
+        },
+        {
+            "key": "小白",
+            "name": "🧲 4小白磁力🧲 4",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": {
+                "主页url": "https://www.xbw20.com/",
+                "编码": "gb2312",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "class=\"time\">&&</label",
+                "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
+                "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
+                "起始页": 2,
+                "倒序": 1,
+                "播放数组": "迅雷下载</div>&&</div>",
+                "播放列表": "<a&&</a >"
+            }
+        },
+        {
+            "key": "高清网",
+            "name": "📹高清网 | 4K磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": {
+                "搜索链接": "https://gaoqing.la/?s={wd}",
+                "简介": "◎简*介</p>&&</p>",
+                "影片年代": "◎上映 日期&&<br>",
+                "影片地区": "◎产*地&&<br>",
+                "图片是否需要代理": "1",
+                "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
+                "线路标题": "磁力",
+                "播放数组": "entry-content u-text-format u-clearfix&&\"content-template",
+                "播放列表": "<p>&&</p>[包含:magnet]",
+                "播放链接": "</a>&&</a>",
+                "分类": "必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
+                "分类链接": "https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
+            }
+        },
+        {
+            "key": "小白",
+            "name": "🧲 4小白磁力🧲 4",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": {
+                "主页url": "https://www.xbw20.com/",
+                "编码": "gb2312",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "class=\"time\">&&</label",
+                "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
+                "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
+                "起始页": 2,
+                "倒序": 1,
+                "播放数组": "迅雷下载</div>&&</div>",
+                "播放列表": "<a&&</a >"
+            }
+        },
+        {
+            "key": "布谷tv",
+            "name": "🐦布谷 | 4K磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./XBPQ2.jar",
+            "ext": {
+                "搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
+                "简介": "◎简*介</p>&&</p>",
+                "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
+                "线路标题": "磁力",
+                "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
+                "播放列表": "<p>&&</p>[包含:magnet]",
+                "分类": "4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
+                "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"
+            }
+        },
+        {
+            "key": "haokongbu",
+            "name": "👿好恐怖 | 磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://m.haokongbu.top/",
+                "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
+                "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
+                "副标题": "class=\"typeset\"&&</i>",
+                "起始页": 2,
+                "倒序": 1,
+                "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
+                "播放列表": "<ul>&&</div>[包含:magnet]"
+            },
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar"
+        },
+        {
+            "key": "bt天堂",
+            "name": "🧲┃天堂┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": {
+                "数组": "class=\"col-md-6\">&&</li>",
+                "副标题": "span>更新时间：&&<a",
+                "简介": "<p>◎简*介&&<p>◎影片截图</p>",
+                "起始页": 0,
+                "线路标题": "磁力",
+                "搜索请求头参数": "User-Agent$PC_UA",
+                "搜索url": "https://www.bttt11.com/e/search/;post",
+                "POST请求数据": "show=title,newstext&keyboard={wd}&searchtype=影视搜索",
+                "分类url": "https://www.bttt11.com/html/page-{cateId}-{catePg}.html",
+                "分类": "畅影大陆电影&畅影港台电影&畅影欧美电影&畅影欧美剧&畅影日韩剧&畅影日韩电影&畅影动漫&畅影亚太剧&畅影亚太电影&畅影综艺&畅影纪录片",
+                "分类值": "4&3&1&6&7&2&11&10&5&12&13"
+            }
+        },
+        {
+            "key": "第9放映室",
+            "name": "第9放映室|全民影院🎬",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "手机",
+                "主页url": "https://www.9fy.cc/",
+                "数组": "class=\"stui-vodlist__box\">&&</li>",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "",
+                "简介": "<p class=\"col-pd\">&&</p",
+                "线路数组": "class=\"title\">&&</h3>[排序:五号线路>>]",
+                "线路标题": "✨PYLB专享✨+<img src=\"/zzd/icon/icon_30.png\"/>&&<",
+                "播放数组": "class=\"stui-content__playlist clearfix\">&&</ul>",
+                "播放列表": "<li >&&</li>",
+                "播放标题": ">&&</a",
+                "嗅探词": ".mp4#.m3u8#.flv",
+                "搜索url": "/d9search/{wd}----------{pg}---.html",
+                "分类url": "https://www.9fy.cc/d9show/{cateId}--{by}------{catePg}---.html[]",
+                "分类数组": "<a&&</a",
+                "分类标题": "text-muted\">&&</a",
+                "分类ID": "href=\"/d9show/&&-----------.html\""
+            }
+        },
+        {
+            "key": "四虎",
+            "name": "四虎影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "站名": "四虎影院",
+                "主页url": "https://www.4hu.tv/Enter/home.html",
+                "简介": "名称：&&</h3>",
+                "数组": "img class=\"nature&&</dl>",
+                "二次截取": "",
+                "图片": "data-original=\"&&.txt\"+.jpg",
+                "标题": "Base64((d('&&'));</script>",
+                "副标题": "",
+                "链接": "href=\"&&\"",
+                "线路数组": "target=\"_blank&&</a[排序:线路二>>]",
+                "线路标题": "Base64(d('&&'));</script>",
+                "播放数组": "item&&</div>",
+                "状态": "分类：</span>&&</p>",
+                "导演": "导演：</span>&&</p>",
+                "主演": "主演：</span>&&</p>",
+                "搜索模式": "1",
+                "搜索url": "https://www.4hu.tv/searchs/index.php?page={pg}&keyboard={wd}&classid=0",
+                "搜索数组": "<dt>&&</dt>",
+                "搜索标题": "_blank\"&&<",
+                "分类": "国产$video#自拍$video/zipai#淫妻作乐$video/fuqi#开放青年$video/kaifang#精品分享$video/jingpin#台湾辣妹$video/twmn#动漫卡通$video/dongman#经典三级$video/sanji#onlyfans主播$onlyfans#女优$av#女性向纯爱$av/nxx#GIGA女战士$av/giga#波多野结衣$av/bdyjy#深田咏美$av/stym#桥本有菜$av/qbyc#苍井空$av/cjk#三上悠亚$av/ssyy#吉泽明步$av/jzmb#电影$movie#无码中字$movie/wuma#SM系列$movie/sm#高清无码$movie/gaoqing#熟女人妻$movie/shunv#美颜巨乳$movie/meiyan#丝袜制服$movie/siwa#中文有码$movie/youma#欧美系列$movie/oumei",
+                "分类url": "https://www.4hu.tv/{cateId}/{class}/index_{catePg}.html[firstPage=https://www.4hu.tv/{cateId}/{class}/]"
+            }
+        },
+        {
+            "key": "qimaoys",
+            "name": "七猫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": {
+                "主页url": "http://www.qimaoym.com",
+                "数组": "class=\"module-item-cover\">&&class=\"module-item\">",
+                "标题": "title=\"&&\"",
+                "副标题": "module-item-text\">&&</div>",
+                "链接": "href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "搜索url": "http://www.qimaoym.com/index.php/vod/search/wd/{wd}",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "线路数组": "module-tab-item tab-item\"&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>🍥]+集",
+                "播放数组": "class=\"module-blocklist\">&&</div",
+                "播放列表": "<a&&</a",
+                "播放标题": "<span&&</span",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
+                "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+            }
+        },
+        {
+            "key": "狸云",
+            "name": "🧲┃狸云┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "ext": {
+                "搜索url": "https://www.lysvc.cc/?cat=&s={wd}",
+                "数组": "class=\"post-item&&class=\"entry-title&&</article> ",
+                "图片": "data-bg=\"&&\">",
+                "播放链接": "<td><a href=\"&&\">[包含:magnet]",
+                "播放标题": ">&&</a>",
+                "线路标题": "font-weight: bold;\">&&</td>",
+                "分类": "蓝光-4k-电影$蓝光-4k-电影#精选剧集$精选剧集",
+                "分类url": "https://www.lysvc.cc/archives/category/%e5%bd%b1%e8%a7%86%e8%b5%84%e6%ba%90/{cateId}/page/{catePg}"
+            }
+        },
+        {
+            "key": "卫总影院",
+            "name": "💞┃卫总┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "数组": "myui-vodlist__thumb lazyload&&</a",
+                "副标题": "pic-text text-right\">&&</span",
+                "简介": "剧情介绍</h3>&&<div class=\"myui-panel myui-panel-bg clearfix",
+                "线路数组": "<li><a href=\"#playlist&&</li[排序:专线01]",
+                "线路标题": ">&&</a",
+                "播放数组": "class=\"tab-pane fade&&</div",
+                "播放列表": "<li&&</li",
+                "播放标题": "title=\"&&\"",
+                "跳转播放链接": "var now=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
+                "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
+            }
+        },
+        {
+            "key": "秋霞电影天堂",
+            "name": "秋霞|电影天堂",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./XBPQ1.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "手机",
+                "主页url": "http://www.hongbaohk.com",
+                "数组": "class=\"myui-vodlist__box\">&&</div>",
+                "简介": "剧情简介</h3>&&</span>",
+                "线路数组": "href=\"#play_down*\"&&</li>[排序:1080zyk>>]",
+                "线路标题": "✨PYLB专享✨+tab\">&&</a",
+                "播放数组": "class=\"myui-content__list&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a",
+                "播放链接": "href=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索url": "http://www.hongbaohk.com/sou/{wd}----------{pg}---.html",
+                "分类数组": "class=\"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>",
+                "分类标题": ">&&</a",
+                "分类ID": "href=\"/hk&&.html\"",
+                "分类url": "http://www.hongbaohk.com/rou/{cateId}--{by}------{catePg}---.html[]"
+            }
+        },
+        {
+            "key": "美柏影视",
+            "name": "美柏影视|",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./XBPQ2.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "手机",
+                "主页url": "https://www.mp4br.com",
+                "数组": "",
+                "标题": "",
+                "副标题": "</p><i>&&</i>",
+                "图片": "img src=\"&&\"",
+                "简介": "div class=\"tjuqing\">&&</div>",
+                "线路数组": "<h2>&&</h2>",
+                "线路标题": "✨PYLB专享✨+&&",
+                "播放数组": "class=\"video_list fn-clear\">&&</div>",
+                "播放列表": "<a&&</a",
+                "播放标题": ">&&</a",
+                "播放链接": "href=\"&&\"",
+                "嗅探词": "index.m3u8",
+                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+                "搜索数组": "<li><a class=\"play-img&&</a",
+                "搜索图片": "src=\"&&\"",
+                "搜索标题": "alt=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索url": "https://www.mp4br.com/sousuo/page/{pg}/wd/{wd}.html",
+                "分类数组": "<li&&</li>",
+                "分类标题": ">&&</a",
+                "分类ID": "href=\"/dy/hd&&.html\"",
+                "分类url": "https://www.mp4br.com/gaojisousuo/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+            }
         },
         {
             "key": "Taohuazu",
@@ -5720,6 +6019,58 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
         },
         {
+            "name": "ipv6同步",
+            "type": 0,
+            "url": "https://gh.2i.gs/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"
+        },
+        {
+            "name": "ipv4",
+            "type": 0,
+            "url": "http://ahz1.e3.luyouxia.net:11466/jd/live.txt"
+        },
+        {
+            "name": "四季TV",
+            "type": 0,
+            "url": "https://www.sv6-douyin-cloudfare.cloudns.ch/duanwukl.txt",
+            "epg": "https://live.fanmingming.com/e.xml",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "全国直播",
+            "type": 0,
+            "url": "https://bbs.ysctv.cn/tv/live.txt",
+            "epg": "https://live.fanmingming.com/e.xml",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "YouTube",
+            "type": 0,
+            "url": "https://qu.ax/ekxr.md"
+        },
+        {
+            "name": "香港MyTvSuper.m3u",
+            "type": 0,
+            "url": "http://epg.doube.eu.org/MyTvSuper.m3u"
+        },
+        {
+            "name": "四小时自动更新",
+            "type": 0,
+            "url": "https://gh.2i.gs/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+            "epg": "http://epg.aptvapp.com/xml",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🔴全球直播",
+            "url": "http://oy.oyxx-1.eu.org/p3p.php",
+            "epg": "http://epg.aptvapp.com/xml",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "色色😍",
+            "type": 0,
+            "url": "http://adultiptv.net/chs.m3u"
+        },
+        {
             "name": "俊于直播",
             "type": 0,
             "url": "http://home.jundie.top:81/Cat/tv/live.txt",
@@ -5731,11 +6082,79 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         },
         {
+            "name": "星视界1",
+            "type": 0,
+            "url": "https://histar.zapi.us.kg/?list"
+        },
+        {
+            "name": "iptv.helima.net",
+            "type": 0,
+            "url": "https://iptv.helima.net/txt/cn.txt"
+        },
+        {
+            "name": "YueChan--18+",
+            "type": 0,
+            "url": "https://yang-1989.eu.org/m3u/Adult"
+        },
+        {
+            "name": "YueChan--MyTV",
+            "type": 0,
+            "url": "https://yang-1989.eu.org/m3u/MyTV"
+        },
+        {
             "name": "YanG-1989",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
+        },
+        {
+            "name": "mytv1",
+            "type": 0,
+            "url": "http://www.52sw.top:678/play/mytvsuper"
+        },
+        {
+            "name": "浙江移动",
+            "type": 0,
+            "url": "http://www.52sw.top:678/iptv/zjyd.txt"
+        },
+        {
+            "name": "斯玛特",
+            "type": 0,
+            "url": "https://fm1077.serv00.net/SmartTV.m3u"
+        },
+        {
+            "name": "安博",
+            "type": 0,
+            "url": "https://fm1077.serv00.net/anbo/"
+        },
+        {
+            "name": "LiTv",
+            "type": 0,
+            "url": "https://fm1077.serv00.net/litv.txt"
+        },
+        {
+            "name": "星视界",
+            "type": 0,
+            "url": "http://www.52sw.top:678/play/0j1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C&t=1718773447"
+        },
+        {
+            "name": "星视界2",
+            "type": 0,
+            "url": "http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF&t=1718772704"
+        },
+        {
+            "name": "全是国外",
+            "type": 0,
+            "url": "http://www.52sw.top:678/play/0j1381/list.php?get=%E9%83%BD%E6%98%AF%E5%9B%BD%E5%A4%96&t=1718773511"
+        },
+        {
+            "name": "iptvplus.m3u",
+            "type": 0,
+            "url": "http://0tt118.getenjoyment.net/iptvplus.m3u"
+        },
+        {
+            "name": "1197",
+            "type": 0,
+            "url": "https://clonglii.serv00.net/user_data/youtube1.php?id=clonglii&q=0&v=1197"
         },
         {
             "name": "Meroser",
@@ -6170,8 +6589,8 @@
                 "bfbfvip"
             ],
             "regex": [
-                "36.12",
-                "19.52"
+                "33.44",
+                "17.24"
             ]
         },
         {
@@ -6183,7 +6602,7 @@
                 "v.cdnlz"
             ],
             "regex": [
-                "19.52"
+                "17.2"
             ]
         },
         {
@@ -6194,7 +6613,7 @@
                 "svip.ffzy"
             ],
             "regex": [
-                "20.52"
+                "18"
             ]
         },
         {
